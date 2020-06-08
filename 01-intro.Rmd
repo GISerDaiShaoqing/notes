@@ -16,3 +16,5 @@
 ## The Language of Graphics
 
 - Generalization.
+
+![](figures/fig1.png)
