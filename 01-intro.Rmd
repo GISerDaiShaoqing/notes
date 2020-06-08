@@ -1,3 +1,7 @@
 # Esir MOOC Cartography (制图学) {#cartography}
 
+## What is Cartography?
 
+Definitions
+- O-graphy-of-Carto: the communication of a geographic phenomenon.
+- finding a way to communicate the spatial phenomenon.
