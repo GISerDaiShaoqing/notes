@@ -1,0 +1,30 @@
+--- 
+title: "Notes"
+author: "Shaoqing Dai"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "笔记"
+---
+
+# 学习笔记概述 {-}
+
+这一份笔记是我在看到[于淼](https://yufree.cn/)的[笔记](http://yufree.github.io/notes/)以后，感悟颇多，因此也开始学习建立这个项目。这份笔记我会记录三个内容，一个是我所上公开课的笔记，一个是我学习相关书籍的笔记，最后一个是我听部分讲座的笔记。本人感兴趣的内容颇多，加上本身地理学综合性学科背景出身，因此涉及到的主题会相对分散和广泛，希望可以给大家带来一些帮助。
+
+在此也感谢[谢益辉](https://yihui.org/)开发的[bookdown](https://bookdown.org/)包[@xie2015]，本站笔记基于bookdown构建。
+
+## 联系方式 {-}
+
+| Author   | Shaoqing Dai                 |
+| :------- | :--------------------------- |
+| E-mail   | dsq1993qingge@163.com        |
+| Homepage | https://gisersqdai.top/mycv/ |
+| Blog     | http://gisersqdai.top/       |
+
+
+## 笔记目录 {-}
+
+- 01 Esir MOOC Cartography (制图学)
