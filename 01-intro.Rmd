@@ -15,6 +15,33 @@
 
 ## The Language of Graphics
 
-- Generalization.
+- Generalization. A good cartographer should Know how the map was in the eye and brain of audience.
 
 ![](figures/fig1.png)
+
+- Visual variables: Hue and color mapping, shape, transparency (time-based data), legend.
+- John Snow's map-health phenomenon in the spatial context.
+- Things to avoid, use of like solid black and go dark gray, too much color, choropleth map-normalize the data and don't show the raw total data.
+
+## Labels and Composition
+
+- Typeface: Arial and Arial Black 13. Used the font in the same family.
+- Size: 10 to 12 points.The smallest number of size,s ix to four.
+- Color, Halo, used less color as much as possible,  transparency.
+- Label locations.
+- Somethingaboutmaps.com.
+- neat lines.
+- Context.
+
+## Going 3D
+
+- Not all map could use 3D. Why would we go 3D? LOD (levels of detail)
+- Perspective, its' easy to lie with 3D and map.
+- Context and medium is important in 3D.
+- Realistic. 
+
+## Mapping Movement and Change
+
+- Time and temporal geography. Animation, statistic.
+- Change detection algorithms.
+- Spatce-time cubes.
